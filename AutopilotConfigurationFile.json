@@ -1,0 +1,12 @@
+{
+    "CloudAssignedTenantId":  "c56dd45b-1da6-4bd0-a53b-1466782d6ee5",
+    "CloudAssignedDeviceName":  "OSD-%RAND:5%",
+    "CloudAssignedForcedEnrollment":  1,
+    "Version":  2049,
+    "Comment_File":  "Profile Windows AutoPilot Default Profile",
+    "CloudAssignedAadServerData":  "{\"ZeroTouchConfig\":{\"CloudAssignedTenantUpn\":\"\",\"ForcedEnrollment\":1,\"CloudAssignedTenantDomain\":\"osddeployment.dk\"}}",
+    "CloudAssignedOobeConfig":  30,
+    "CloudAssignedDomainJoinMethod":  0,
+    "ZtdCorrelationId":  "7F9E6025-1E13-45F3-BF82-A3E8C5B59EAC",
+    "CloudAssignedTenantDomain":  "osddeployment.dk"
+}
