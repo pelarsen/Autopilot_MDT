@@ -13,3 +13,5 @@
 :: Workaround for incorrectly-registered TS environment
 reg delete HKCR\Microsoft.SMS.TSEnvironment /f > nul 2>&1
 rmdir /Q /S c:\MININT 
+rmdir /Q /S c:\_SMSTaskSequence
+del /Q c:\LTIBootstrap.vbs
